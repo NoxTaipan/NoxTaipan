@@ -22,6 +22,8 @@ Streamer y developer. Construyo herramientas de código abierto para mi propio s
 
 ## ☕ Soporte / Support
 
-Todo lo que hago es gratis y de código abierto. Si te sirve: · *Everything I make is free and open source. If it's useful to you:*
+Todo lo que publico en GitHub es gratis y de código abierto, siempre. Si te sirve, invitame un café: · *Everything I publish on GitHub is free and open source, always. If it's useful to you, buy me a coffee:*
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/noxtaipan)
+
+Aparte, en [Gumroad](https://noxtaipan.gumroad.com/) vendo otros productos — eso sí tiene costo. · *Separately, on [Gumroad](https://noxtaipan.gumroad.com/) I sell other products — that one does cost money.*
